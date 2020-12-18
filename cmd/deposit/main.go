@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var sumOfCredit = 1_000_000.00
+	var sumOfCredit = 100_000.00
 	var annualPercentOfCredit = 20.0
 	var creditTermInMonths int64 = 36
 
